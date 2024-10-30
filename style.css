@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --bs-primary-rgb: 20,80,203;
+  --bs-font-sans-serif: "Montserrat", sans-serif;
+  --bs-body-font-family: var(--bs-font-sans-serif);
+}
+
+.display-1 {
+  font-size: calc(1.625rem + 5vw);
+  font-weight: 100;
+}
+
+.btn-danger {
+  background-color: #75060b;
+  border-color: #75060b;
+}
+
+.carousel-item img {
+    width: 800%; /* Asegura que ocupe todo el ancho del contenedor */
+    height: 400px; /* Puedes ajustar la altura según el tamaño deseado */
+    object-fit: cover; /* Corta la imagen si es necesario, manteniendo el enfoque en su centro */
+}
+.card-img-top {
+    width: 100%;        /* La imagen ocupa el 100% del ancho del contenedor */
+    height: 300px;      /* Altura fija para asegurar una forma cuadrada */
+    object-fit: cover;  /* La imagen se ajusta al área y se recorta si es necesario */
+    display: block;     /* Asegura que la imagen se comporte como un bloque */
+}
