@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Ballena azul (Balaenoptera musculus)",
+        "descripcion": "Es el animal más grande del planeta. Su corazón puede pesar tanto como un coche pequeño, y sus cantos se pueden escuchar a cientos de kilómetros bajo el agua.",
+        "Tamaño": "Hasta 30 metros de longitud",
+        "peso": "Entre 150 y 200 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/ballena%20azul%203.jpg?raw=true",
+        "fotos":["ballenas/ballena azul 1.jpg", "ballenas/ballena azul 2.jpg", "ballenas/ballena azul 4.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+        {
+        "nombre": "Ballena Jorobada (Megaptera novaeangliae)",
+        "descripcion": "Famosa por sus acrobacias fuera del agua y su canto que puede durar hasta 20 minutos. Sus aletas pectorales son extremadamente largas.",
+        "Tamaño": "Entre 12 y 16 metros",
+        "peso": "Entre 25 y 30 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/jorobada2.jpg?raw=true",
+        "fotos":["ballenas/jorobada1.jpg", "ballenas/jorobada3.jpg", "ballenas/jorobada 4.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+            {
+        "nombre": "Ballena Gris (Eschrichtius robustus)",
+        "descripcion": " Reconocida por sus largas migraciones, recorriendo hasta 16.000 kilómetros desde las aguas frías del Ártico hasta las costas de Baja California, donde se reproducen.",
+        "Tamaño": "Alrededor de 14 metros",
+        "peso": "Hasta 40 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/gris4.jpg?raw=true",
+        "fotos":["ballenas/gris1.jpg", "ballenas/gris2.jpg", "ballenas/gris3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+                {
+        "nombre": "Ballena Franca Austral (Eubalaena australis)",
+        "descripcion": "Tiene una cabeza grande y callosa que representa una cuarta parte de su cuerpo. Es lenta y curiosa, lo que las hacía presa fácil para los balleneros en el pasado.",
+        "Tamaño": "Hasta 18 metros",
+        "peso": "Entre 60 y 80 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/franca3.jpg?raw=true",
+        "fotos":["ballenas/franca1.jpg", "ballenas/franca2.jpg", "ballenas/franca4.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+                    {
+        "nombre": "Ballena de Groenlandia (Balaena mysticetus)",
+        "descripcion": "Adaptada al hielo, puede vivir hasta 200 años, lo que la convierte en uno de los mamíferos más longevos del mundo. Su boca tiene la mayor cantidad de barbas (placas filtradoras) entre todas las ballenas.",
+        "Tamaño": "Hasta 18 metros",
+        "peso": "Hasta 100 toneladas.",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/groenlandia4.jpg?raw=true",
+        "fotos":["ballenas/groenlandia1.jpg", "ballenas/groenlandia2.jpg", "ballenas/groenlandia3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+                        {
+        "nombre": "Ballena Minke Común (Balaenoptera acutorostrata)",
+        "descripcion": "Es la especie de ballena más pequeña de la familia de los rorcuales. Son rápidas y pueden hacer inmersiones profundas.",
+        "Tamaño": "De 7 a 10 metros",
+        "peso": "Alrededor de 5 a 10 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/minke3.jpg?raw=true",
+        "fotos":["ballenas/minke1.jpg", "ballenas/minke2.jpg", "ballenas/minke4.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+                            {
+        "nombre": "Ballena Sei (Balaenoptera borealis)",
+        "descripcion": "Es una de las ballenas más rápidas, alcanzando velocidades de hasta 50 km/h. Prefiere áreas pelágicas alejadas de la costa.",
+        "Tamaño": "Entre 14 y 20 metros",
+        "peso": "Alrededor de 20 a 30 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/sei4.jpg?raw=true",
+        "fotos":["ballenas/sei1.jpg", "ballenas/sei2.jpg", "ballenas/sei3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+                                {
+        "nombre": "Ballena de Aleta (Balaenoptera physalus)",
+        "descripcion": "Es la segunda ballena más grande del mundo. Puede nadar a velocidades de hasta 40 km/h, lo que le ha ganado el apodo de 'galgo de los mares'.",
+        "Tamaño": "Hasta 27 metros",
+        "peso": "Hasta 80 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/aleta4.jpg?raw=true",
+        "fotos": ["ballenas/aleta1.jpg", "ballenas/aleta2.jpg", "ballenas/aleta3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+   
+    {
+        "nombre": "Ballena Beluga (Delphinapterus leucas)",
+        "descripcion": "Famosa por su piel blanca y su sociabilidad. Vive en grupos y emite una variedad de sonidos como chirridos y silbidos.",
+        "Tamaño": "Entre 3 y 5 metros",
+        "peso": "Entre 1 y 1,5 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/beluga 4.jpg?raw=true",
+        "fotos": ["ballenas/beluga1.jpg", "ballenas/beluga2.jpg", "ballenas/beluga3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Narval (Monodon monoceros)",
+        "descripcion": "Famoso por su colmillo en espiral que es en realidad un diente modificado. Se cree que su colmillo tiene funciones sensoriales.",
+        "Tamaño": "Hasta 5 metros (sin incluir el colmillo)",
+        "peso": "Alrededor de 1 tonelada",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/narval4.jpg?raw=true",
+        "fotos": ["ballenas/narval1.jpg", "ballenas/narval2.jpg", "ballenas/narval3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Cachalote (Physeter macrocephalus)",
+        "descripcion": "Conocido por su gran cabeza y su capacidad para bucear a profundidades extremas, hasta más de 2.000 metros, en busca de calamares gigantes.",
+        "Tamaño": "Hasta 18 metros (los machos)",
+        "peso": "Hasta 50 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/cachalote4.jpg?raw=true",
+        "fotos": ["ballenas/cachalote1.jpg", "ballenas/cachalote2.jpg", "ballenas/cachalote3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Zifio de Cuvier (Ziphius cavirostris)",
+        "descripcion": "Especie esquiva, famosa por realizar inmersiones a grandes profundidades. Se ha registrado buceando a más de 3.000 metros.",
+        "Tamaño": "Hasta 7 metros",
+        "peso": "Aproximadamente 3 toneladas",
+        "foto": "https://github.com/ljubedsacalderon/dno096-13/blob/main/ballenas/zifio4.jpg?raw=true",
+        "fotos": ["ballenas/zifio1.jpg", "ballenas/zifio2.jpg", "ballenas/zifio3.jpg"],
+        "github": "https://github.com/ljubedsacalderon"
+    }
+]
